@@ -42,15 +42,13 @@ const AboutSection = () => {
           <div className="space-y-6">
             <div className="prose prose-lg max-w-none">
               <p className="text-foreground leading-relaxed">
-                With expertise in the MERN stack and React Native, I specialize in creating 
-                full-stack web applications and mobile solutions. My experience spans from 
-                building expense tracking mobile apps to developing online IDE platforms and 
-                movie recommendation systems.
+                With expertise in the MERN stack and React Native, I specialize in creating
+                full-stack web applications and mobile solutions.
               </p>
               <p className="text-muted-foreground leading-relaxed">
-                I combine strong software engineering principles with effective project management 
-                skills to deliver scalable solutions. Proficient in cloud technologies like AWS 
-                and containerization with Docker, I focus on creating efficient, maintainable 
+                I combine strong software engineering principles with effective project management
+                skills to deliver scalable solutions. Proficient in cloud technologies like AWS
+                and containerization with Docker, I focus on creating efficient, maintainable
                 applications that solve real-world problems.
               </p>
             </div>
